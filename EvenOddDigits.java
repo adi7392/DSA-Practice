@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class EvenOddDigits {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Eneter the Number = ");
+        System.out.print("Enter the Number = ");
         int n = sc.nextInt();
 
         int evencount = 0;
